@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is a supporting file helpful for assignments.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-079-introduction-to-convex-optimization-fall-2009/b7ef0f08fb21870b253bcbcdb6d1bd2d_team_data.m
+file: /media/courses/6-079-introduction-to-convex-optimization-fall-2009/b7ef0f08fb21870b253bcbcdb6d1bd2d_team_data.m
 file_type: text/x-objcsrc
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: team_data.m
 uid: b7ef0f08-fb21-870b-253b-cbcdb6d1bd2d

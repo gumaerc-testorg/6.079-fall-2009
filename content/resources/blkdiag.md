@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is a supporting file helpful for exams.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-079-introduction-to-convex-optimization-fall-2009/6e9ca45ca0d2db76882636a7ac0f458a_blkdiag.m
+file: /media/courses/6-079-introduction-to-convex-optimization-fall-2009/6e9ca45ca0d2db76882636a7ac0f458a_blkdiag.m
 file_type: text/x-objcsrc
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Other
 title: blkdiag.m
 uid: 6e9ca45c-a0d2-db76-8826-36a7ac0f458a

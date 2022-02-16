@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 42e6d30b-9c4e-463c-b005-156d73734cf2
 ---
@@ -207,9 +210,9 @@ Multi-period processor speed scheduling; minimum time optimal control; grasp for
 {{< tdopen >}}
 
 
-_l_1 methods for convex-cardinality problems
+_l_{{< sub "1" >}} methods for convex-cardinality problems
 
-Convex-cardinality problems and examples; _l_1 heuristic; interpretation as relaxation.
+Convex-cardinality problems and examples; _l_{{< sub "1" >}} heuristic; interpretation as relaxation.
 
 
 {{< tdclose >}}
@@ -225,9 +228,9 @@ Convex-cardinality problems and examples; _l_1 heuristic; interpretation as rela
 {{< tdopen >}}
 
 
-_l_1 methods for convex-cardinality problems (cont.)
+_l_{{< sub "1" >}} methods for convex-cardinality problems (cont.)
 
-Total variation reconstruction; iterated re-weighted _l_1; rank minimization and dual spectral norm heuristic.
+Total variation reconstruction; iterated re-weighted _l_{{< sub "1" >}}; rank minimization and dual spectral norm heuristic.
 
 
 {{< tdclose >}}
