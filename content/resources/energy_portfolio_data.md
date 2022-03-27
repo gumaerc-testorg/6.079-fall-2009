@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1953abf8-2f71-b9c5-a4c3-2ef0ac3f03b9
 resourcetype: Other
 title: energy_portfolio_data.m
 uid: c02e840f-77b2-95f8-dabe-ffe18da9a1f4

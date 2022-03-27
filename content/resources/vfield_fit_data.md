@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2bba04f5-2e93-21f4-3ad8-294bf4033e5c
 resourcetype: Other
 title: vfield_fit_data.m
 uid: 6972f074-3a7f-7895-71f1-2d2f28a36578

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2bba04f5-2e93-21f4-3ad8-294bf4033e5c
 resourcetype: Other
 title: gen_dispatch_data.m
 uid: 6b46793e-19a7-b35a-bf71-a03e588dc7e2

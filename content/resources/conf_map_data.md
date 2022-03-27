@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1953abf8-2f71-b9c5-a4c3-2ef0ac3f03b9
 resourcetype: Other
 title: conf_map_data.m
 uid: 915ca731-fe74-20a6-3c60-e2887fa61b35

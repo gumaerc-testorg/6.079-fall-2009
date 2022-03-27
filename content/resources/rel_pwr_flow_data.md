@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1953abf8-2f71-b9c5-a4c3-2ef0ac3f03b9
 resourcetype: Other
 title: rel_pwr_flow_data.m
 uid: 2d6e4853-f199-c6a6-4939-3b2ffe070146

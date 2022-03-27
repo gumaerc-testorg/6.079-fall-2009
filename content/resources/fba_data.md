@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2bba04f5-2e93-21f4-3ad8-294bf4033e5c
 resourcetype: Other
 title: fba_data.m
 uid: efcfa134-4ac2-c668-dea7-75b43201b81d

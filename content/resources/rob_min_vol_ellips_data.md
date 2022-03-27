@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2bba04f5-2e93-21f4-3ad8-294bf4033e5c
 resourcetype: Other
 title: rob_min_vol_ellips_data.m
 uid: 6809c989-70dc-5f4a-511f-dfe6cbbde1f0

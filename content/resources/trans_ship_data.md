@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2bba04f5-2e93-21f4-3ad8-294bf4033e5c
 resourcetype: Other
 title: trans_ship_data.m
 uid: 776d80a2-684c-88b4-0383-712aab4e35ff

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2bba04f5-2e93-21f4-3ad8-294bf4033e5c
 resourcetype: Document
 title: MIT6_079F09_midterm.pdf
 uid: 9affc588-61b5-d07a-5124-3fe2ec0c44d5

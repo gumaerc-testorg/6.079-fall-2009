@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1953abf8-2f71-b9c5-a4c3-2ef0ac3f03b9
 resourcetype: Document
 title: MIT6_079F09_hw10_notes.pdf
 uid: 4085d03f-e06d-1173-1adc-82b28e7917dc

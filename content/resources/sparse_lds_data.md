@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1953abf8-2f71-b9c5-a4c3-2ef0ac3f03b9
 resourcetype: Other
 title: sparse_lds_data.m
 uid: ec4b3039-4bc0-e994-b0f0-98804dbadc72
