@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a bibliography of course texts, the schedule of
+  readings by week, and a CVX user guide.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -72,7 +74,7 @@ Chapters 2-3
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 4, CVX user guide (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cvxr.com/cvx/doc/CVX.pdf))
+Chapter 4, CVX user guide ([PDF](http://cvxr.com/cvx/doc/CVX.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}

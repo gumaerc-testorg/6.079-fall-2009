@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file helpful for assignments.
-file: /media/courses/6-079-introduction-to-convex-optimization-fall-2009/b7ef0f08fb21870b253bcbcdb6d1bd2d_team_data.m
+file: /courses/6-079-introduction-to-convex-optimization-fall-2009/b7ef0f08fb21870b253bcbcdb6d1bd2d_team_data.m
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: team_data.m
 uid: b7ef0f08-fb21-870b-253b-cbcdb6d1bd2d
 ---
+This resource is a supporting file helpful for assignments.
+
