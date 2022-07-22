@@ -5,6 +5,7 @@ file: /courses/6-079-introduction-to-convex-optimization-fall-2009/6809c98970dc5
 file_type: text/x-objcsrc
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rob_min_vol_ellips_data.m
 uid: 6809c989-70dc-5f4a-511f-dfe6cbbde1f0
 ---
 This resource is a supporting file helpful for exams.
-

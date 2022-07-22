@@ -6,6 +6,7 @@ file: /courses/6-079-introduction-to-convex-optimization-fall-2009/4085d03fe06d1
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT6_079F09_hw10_notes.pdf
 uid: 4085d03f-e06d-1173-1adc-82b28e7917dc
 ---
 This resource contains problem statements related to standard form LP barrier method.
-

@@ -5,6 +5,7 @@ file: /courses/6-079-introduction-to-convex-optimization-fall-2009/ec4b30394bc0e
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sparse_lds_data.m
 uid: ec4b3039-4bc0-e994-b0f0-98804dbadc72
 ---
 This resource is a supporting file helpful for assignments.
-

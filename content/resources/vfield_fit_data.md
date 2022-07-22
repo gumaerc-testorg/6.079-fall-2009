@@ -5,6 +5,7 @@ file: /courses/6-079-introduction-to-convex-optimization-fall-2009/6972f0743a7f7
 file_type: text/x-objcsrc
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vfield_fit_data.m
 uid: 6972f074-3a7f-7895-71f1-2d2f28a36578
 ---
 This resource is a supporting file helpful for exams.
-

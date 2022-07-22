@@ -5,6 +5,7 @@ file: /courses/6-079-introduction-to-convex-optimization-fall-2009/3c594ae6c382c
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: planning_data.m
 uid: 3c594ae6-c382-ca4a-74af-83c3af4a9454
 ---
 This resource is a supporting file helpful for assignments.
-

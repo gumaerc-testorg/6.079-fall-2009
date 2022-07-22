@@ -5,6 +5,7 @@ file: /courses/6-079-introduction-to-convex-optimization-fall-2009/02ea9aa4436dd
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nonlin_meas_data.m
 uid: 02ea9aa4-436d-dc7e-1fd0-cc0ded02557e
 ---
 This resource is a supporting file helpful for assignments.
-

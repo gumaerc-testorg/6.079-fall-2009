@@ -5,6 +5,7 @@ file: /courses/6-079-introduction-to-convex-optimization-fall-2009/9801a8530eb84
 file_type: text/x-objcsrc
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: treatment_planning_data.m
 uid: 9801a853-0eb8-4005-826d-16a0a695d88f
 ---
 This resource is a supporting file helpful for exams.
-

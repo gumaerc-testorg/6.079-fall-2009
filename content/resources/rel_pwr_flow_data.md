@@ -5,6 +5,7 @@ file: /courses/6-079-introduction-to-convex-optimization-fall-2009/2d6e4853f199c
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: rel_pwr_flow_data.m
 uid: 2d6e4853-f199-c6a6-4939-3b2ffe070146
 ---
 This resource is a supporting file helpful for assignments.
-
