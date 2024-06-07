@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file helpful for assignments.
 file: /courses/6-079-introduction-to-convex-optimization-fall-2009/02ea9aa4436ddc7e1fd0cc0ded02557e_nonlin_meas_data.m
+file_size: 12899
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
