@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is a supporting file helpful for assignments.
 file: /courses/6-079-introduction-to-convex-optimization-fall-2009/2d6e4853f199c6a649393b2ffe070146_rel_pwr_flow_data.m
+file_size: 2178
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
