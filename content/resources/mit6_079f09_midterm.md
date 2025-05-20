@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem statements related to 2D filter design
   and gini coefficient of inequality.
-file: /ol-ocw-studio-app/courses/6-079-introduction-to-convex-optimization-fall-2009/9affc58861b5d07a51243fe2ec0c44d5_MIT6_079F09_midterm.pdf
+file: /courses/6-079-introduction-to-convex-optimization-fall-2009/9affc58861b5d07a51243fe2ec0c44d5_MIT6_079F09_midterm.pdf
 file_size: 209762
 file_type: application/pdf
 learning_resource_types:

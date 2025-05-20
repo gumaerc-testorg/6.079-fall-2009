@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file helpful for exams.
-file: /ol-ocw-studio-app/courses/6-079-introduction-to-convex-optimization-fall-2009/6972f0743a7f789571f12d2f28a36578_vfield_fit_data.m
+file: /courses/6-079-introduction-to-convex-optimization-fall-2009/6972f0743a7f789571f12d2f28a36578_vfield_fit_data.m
 file_size: 590
 file_type: text/x-objcsrc
 learning_resource_types:
