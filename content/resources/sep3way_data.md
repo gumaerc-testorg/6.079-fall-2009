@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file helpful for assignments.
-file: /ol-ocw-studio-app/courses/6-079-introduction-to-convex-optimization-fall-2009/4b44d7e4b24d1782e3b7d3c929d7493b_sep3way_data.m
+file: /courses/6-079-introduction-to-convex-optimization-fall-2009/4b44d7e4b24d1782e3b7d3c929d7493b_sep3way_data.m
 file_size: 2305
 file_type: text/x-objcsrc
 learning_resource_types:
