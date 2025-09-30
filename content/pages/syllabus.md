@@ -25,7 +25,7 @@ Software
 
 We'll use CVX throughout the course.
 
-[CVX: Matlab Software for Disciplined Convex Programming](http://cvxr.com/cvx/)
+{{% resource_link "342c4695-fabc-45b4-962a-2a790876237a" "CVX: Matlab Software for Disciplined Convex Programming" %}}
 
 Calendar
 --------
