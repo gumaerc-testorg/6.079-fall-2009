@@ -14,11 +14,11 @@ Textbooks
 
 Course textbook (required, available online):
 
-Boyd, Stephen, and Lieven Vanderberghe. _[Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/)_. Cambridge, UK: Cambridge University Press, 2004. ISBN: 9780521833783.
+Boyd, Stephen, and Lieven Vanderberghe. _{{% resource_link "b1ac33bd-9417-497e-89cf-2e4065de7a93" "Convex Optimization" %}}_. Cambridge, UK: Cambridge University Press, 2004. ISBN: 9780521833783.
 
 Suggested book to complement the theoretical aspects:
 
-Bertsekas, Dimitri. _[Convex Optimization Theory](http://www.athenasc.com/convexduality.html)_. Nashua, NH: Athena Scientific, 2009. ISBN: 9781886529311.
+Bertsekas, Dimitri. _{{% resource_link "4f3249d8-921d-4519-9d5d-53ce752f42db" "Convex Optimization Theory" %}}_. Nashua, NH: Athena Scientific, 2009. ISBN: 9781886529311.
 
 Another book with complementary material, as well as topics not covered in the course textbook:
 
@@ -74,7 +74,7 @@ Chapters 2-3
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Chapter 4, CVX user guide ([PDF](http://cvxr.com/cvx/doc/CVX.pdf))
+Chapter 4, CVX user guide ({{% resource_link "ee6a57d8-379b-46c2-aa94-b5f4623c4ffa" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
