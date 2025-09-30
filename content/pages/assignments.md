@@ -10,7 +10,7 @@ uid: 1953abf8-2f71-b9c5-a4c3-2ef0ac3f03b9
 
 Many of the homework exercises are taken from the course textbook:
 
-Boyd, Stephen, and Lieven Vanderberghe. _[Convex Optimization](http://www.stanford.edu/~boyd/cvxbook/)_. Cambridge, UK: Cambridge University Press, 2004. ISBN: 9780521833783.
+Boyd, Stephen, and Lieven Vanderberghe. _{{% resource_link "b1ac33bd-9417-497e-89cf-2e4065de7a93" "Convex Optimization" %}}_. Cambridge, UK: Cambridge University Press, 2004. ISBN: 9780521833783.
 
 {{< tableopen >}}
 {{< theadopen >}}
